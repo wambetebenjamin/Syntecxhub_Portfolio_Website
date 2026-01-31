@@ -14,3 +14,9 @@ This project was designed as part of my UI/UX internship at Syntecxhub.
 
 ## Figma Link
 See figma-link.txt
+## Presentation
+Screens were prepared and exported in a presentation format suitable for Behance and Dribbble showcasing:
+- Final designs
+- Responsive variations
+- Reusable components
+
